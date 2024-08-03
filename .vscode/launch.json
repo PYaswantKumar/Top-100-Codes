@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Question24",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question24",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question23",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question23",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question22",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question22",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question21",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question21",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question20",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question20",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question19",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question19",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question18",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question18",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question17",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question17",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question16",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question16",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question15",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question15",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question14",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question14",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question13",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question13",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question12",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question12",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question11",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question11",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question10",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question10",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question9",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question9",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question8",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question8",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question7",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question7",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question6",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question6",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question5",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question5",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Question1",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question1",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question2",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question2",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question3",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question3",
+            "projectName": "Top100 codes_1eab55ce"
+        },
+        {
+            "type": "java",
+            "name": "Question4",
+            "request": "launch",
+            "mainClass": "BasicQuestions.Question4",
+            "projectName": "Top100 codes_1eab55ce"
+        }
+    ]
+}
